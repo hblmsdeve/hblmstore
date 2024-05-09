@@ -3,7 +3,6 @@
     require_once ('./autoload.php');
     require_once ('./views/includes/header.php');
 
-//https://dmaportal.dicastalma.com/public/service
     $home = new HomeController();
 
     $page = [
